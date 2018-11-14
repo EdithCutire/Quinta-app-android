@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppList3</string>
+    <string name="action_settings">Settings</string>
+     <string name="hello_world">UNIDADES DIDACTICAS</string>
+    <string name="leg">Legislacion e Insercion Laboral</string>
+    <string name="tra">Trabajo en equipo</string>
+    <string name="pro">Proyecto empresarial</string>
+    <string name="web">Programacion Web</string>
+    <string name="com">Comercio electronico</string>
+    <string name="apl">Aplicaciones mobiles</string>
+    <string name="prod">Produccion Audiovisual</string>
+
+</resources>
